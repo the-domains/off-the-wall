@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T02:49:43.408Z'
+datePublished: '2016-06-17T03:10:42.810Z'
 sourcePath: >-
   _posts/2016-06-16-costa-rica-and-puerto-rico-are-happiest-countries-in-latin-a.md
 isBasedOnUrl: >-
@@ -20,10 +20,10 @@ author:
   - name: ''
     url: 'http://latincorrespondent.com/author/ap-news/'
     avatar: {}
-dateModified: '2016-06-17T02:46:50.202Z'
+dateModified: '2016-06-17T03:10:39.628Z'
 title: >-
-  Costa Rica and Puerto Rico are happiest countries in Latin America, according
-  to World Happiness report
+  Costa Rica & Puerto Rico are happiest countries in Latin America, according to
+  World Happiness report
 app_links: []
 publisher:
   url: 'http://latincorrespondent.com'
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e32f6621f27825bd67eda411c28b692/croprotate.jpg?cropheight=961&amp;cropwidth=1174&amp;degrees=0&amp;input=http%3A%2F%2Fcdn.latincorrespondent.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fhappy-venezuela.jpg&amp;x=0&amp;y=0" /><h1>Costa Rica and Puerto Rico are happiest countries in Latin America, according to World Happiness report</h1><p>Costa Rica (14) and Puerto Rico (15) are the happiest countries in Latin America according to the latest version of the World Happiness Report. Denmark was rated the world's most happiest country for the second year running. Switzerland, Iceland, Norway and Finland were also within the top five.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e32f6621f27825bd67eda411c28b692/croprotate.jpg?cropheight=961&amp;cropwidth=1174&amp;degrees=0&amp;input=http%3A%2F%2Fcdn.latincorrespondent.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fhappy-venezuela.jpg&amp;x=0&amp;y=0" /><h1>Costa Rica &amp; Puerto Rico are happiest countries in Latin America, according to World Happiness report</h1><p>Costa Rica (14) and Puerto Rico (15) are the happiest countries in Latin America according to the latest version of the World Happiness Report. Denmark was rated the world's most happiest country for the second year running. Switzerland, Iceland, Norway and Finland were also within the top five.</p></article>
