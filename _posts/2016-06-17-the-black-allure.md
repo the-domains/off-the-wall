@@ -1,11 +1,15 @@
 ---
-datePublished: '2016-06-17T03:08:17.648Z'
-author: []
-dateModified: '2016-06-17T03:00:44.768Z'
-title: The Black Allure
-description: ''
-starred: false
+datePublished: '2016-06-17T03:14:02.973Z'
 sourcePath: _posts/2016-06-17-the-black-allure.md
+author:
+  - {}
+dateModified: '2016-06-17T03:13:54.413Z'
+title: The Black Allure
+description: >-
+  Models : Ajak Deng, Arlenis Sosa Peña, Chanel Iman, Georgie Baddiel, Jourdan
+  Dunn, Joan Smalls, Kinee Diouf, Lais Ribeiro, Melodie Monrose, Mia Aminata
+  Niaria, Rose Cordero & Sessilee Lopez.
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -15,4 +19,8 @@ _type: Article
 
 ---
 # The Black Allure
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3edbc7f5-70fa-4a4f-bad3-490c2527099d.jpg)
+![© Emma Summierten](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3edbc7f5-70fa-4a4f-bad3-490c2527099d.jpg)
+
+**Models : **Ajak Deng, Arlenis Sosa Peña, Chanel Iman, Georgie Baddiel, Jourdan Dunn, Joan Smalls, Kinee Diouf, Lais Ribeiro, Melodie Monrose, Mia Aminata Niaria, Rose Cordero & Sessilee Lopez.
+
+**Photography** by Emma Summierten for **Vogue Italia** February 2011\.
