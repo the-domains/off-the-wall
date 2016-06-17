@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T02:46:00.333Z'
+datePublished: '2016-06-17T02:49:43.408Z'
 sourcePath: >-
   _posts/2016-06-16-costa-rica-and-puerto-rico-are-happiest-countries-in-latin-a.md
 isBasedOnUrl: >-
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: 'http://latincorrespondent.com/author/ap-news/'
     avatar: {}
-dateModified: '2016-06-17T02:45:56.320Z'
+dateModified: '2016-06-17T02:46:50.202Z'
 title: >-
   Costa Rica and Puerto Rico are happiest countries in Latin America, according
   to World Happiness report
