@@ -1,4 +1,3 @@
-layout_spectrum: 0.9621233022771776
 typography_spectrum: 0.9716266880277544
 color:
   brandStrength: 0.548984685447067
@@ -11,4 +10,13 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.9621233022771776
+author:
+  name: MPR
+  email: hello@onthewall.news
+  url: onthewall.news
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8e4dc12-3248-4da7-8019-4169ff822f7d.png
 name: Off The Wall
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a7a54b-0653-453e-97fd-c651ff3c30e1.jpg
