@@ -38,8 +38,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.businessoffashion.com/articles/intelligence/esteban-cortazar-tackles-timing-production
 title: Esteban Cortázar Tackles Fashion's Timing Gap
-datePublished: '2016-06-17T00:23:57.131Z'
-dateModified: '2016-06-17T00:23:42.193Z'
+datePublished: '2016-06-17T00:27:32.892Z'
+dateModified: '2016-06-17T00:27:06.330Z'
 starred: false
 sourcePath: _posts/2016-06-17-esteban-cortazar-tackles-fashions-timing-gap.md
 inFeed: true
