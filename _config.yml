@@ -1,4 +1,4 @@
-typography_spectrum: 0.9716266880277544
+typography_spectrum: 0.05425313813611865
 color:
   brandStrength: 0.548984685447067
   lightness: 0.3895570121239871
@@ -10,7 +10,7 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-layout_spectrum: 0.9621233022771776
+layout_spectrum: 0.6851955477613956
 author:
   name: ''
   email: hello@onthewall.news
