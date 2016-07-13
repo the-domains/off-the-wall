@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-17T03:14:02.973Z'
+datePublished: '2016-07-13T21:00:42.699Z'
 sourcePath: _posts/2016-06-17-the-black-allure.md
 author:
   - {}
-dateModified: '2016-06-17T03:13:54.413Z'
+dateModified: '2016-06-17T04:18:52.309Z'
 title: The Black Allure
 description: >-
   Models : Ajak Deng, Arlenis Sosa Peña, Chanel Iman, Georgie Baddiel, Jourdan
